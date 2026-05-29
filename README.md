@@ -26,5 +26,5 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 - Time Series Analysis
 
 ## Author
-**Salsabila Eka Hariadi**  
+**Ananda Pradewa Dyah kurniawan Putra**  
 Aspiring Data Analyst | Statistics Background
